@@ -47,7 +47,8 @@ List the technical features of the app.
     -Home: MainActivity.kt and activity_main.XML (Uses firebase by default to log with google account or email,
     tracks your latest location(var),notified with Toast),also has a Toast display of the user saved before and displays google user from screen in that case. 
    
-    !!!!IMPORTANT !!!!:EXECUTE THIS ONE FIRST AFTER LOADING THE APP AND BEFORE PRESSING THE Dress BUTTON.
+!!!!IMPORTANT !!!!:EXECUTE THIS ONE FIRST AFTER LOADING THE APP AND BEFORE PRESSING THE Dress BUTTON.
+
     -Time: SecondActivity.kt and activity_second.xml (makes the call and saves the response of the weatehrMapAPI and shows relevant data)
     -Dress: ThridActivity.kt and activity_third.xml (recomends you what to wear in case you are in home or if the weather is dangerous,all thanks to the data from Time activity)
     -logout Button: if you want to disconnect your account from the app.This is a function that every activity has.
@@ -74,9 +75,19 @@ List the technical features of the app.
 
 
   All made with gradle version java home 17.0.9 JDK  and android studio SDK version 34.
-    
-    
-      
+
+Additional section:
+    -ROOM package is implemented but not used after considering the goal of the app.It also has a favLocationEntity made.
+How to Use:
+    1. Start the app and sign up by google account or email.
+    2. After that you can press logout in the drawer menu .
+    3.Press the time button in the drawer menu.
+    3.1!!!!IMPORTANT !!!!:EXECUTE THIS ONE FIRST AFTER LOADING THE APP AND BEFORE PRESSING THE Dress BUTTON.
+    4. After this you can check anything you want on dress or anywhere else
+
+Participant
+    -Álvaro Hidalgo López (alvaro.hidalgo.lopez@alumnos.upm.es)
+    100%
     
      
     
