@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">weatherApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">GetYourGear</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_time">Time</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_dress">Dress</string>
+    <string name="menu_logout">Logout</string>
+    <string name="time_to_get_your_gear">Time to get your gear!</string>
+    <string name="signed_in">signed_in</string>
+    <string name="signed_cancelled">cancelled</string>
+</resources>
