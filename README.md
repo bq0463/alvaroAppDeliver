@@ -2,7 +2,9 @@ WeatherApp (was GetYourGear)
 
 Workspace
 - Github
+  
     -Repository: https://github.com/bq0463/alvaroAppDeliver
+  
     -Release: https://github.com/bq0463/alvaroAppDeliver/releases/tag/FinalVersion
 
 Description
