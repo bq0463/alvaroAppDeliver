@@ -38,6 +38,7 @@ link: https://upm365-my.sharepoint.com/:v:/g/personal/alvaro_hidalgo_lopez_alumn
 Features
 
 List the functional features of the app.
+
     -Now you can know how is the weather on the fly.
     -Interactive Drawer Menu.
     -logout quick button.
@@ -50,7 +51,7 @@ List the technical features of the app.
     -Home: MainActivity.kt and activity_main.XML (Uses firebase by default to log with google account or email,
     tracks your latest location(var),notified with Toast),also has a Toast display of the user saved before and displays google user from screen in that case. 
    
-!!!!IMPORTANT !!!!:EXECUTE THIS ONE FIRST AFTER LOADING THE APP AND BEFORE PRESSING THE Dress BUTTON.
+!!!!IMPORTANT !!!!:EXECUTE THIS ONE FIRST AFTER LOADING THE APP AND BEFORE PRESSING THE Dress BUTTON.ALSO, IF IT DOESNT LOAD THE COORDINATES,JUST PRESS HOME AGAIN AND WAIT FOR THEM,AND THEN YOU´LL BE PROVIDED WITH THE API INFO TOO.
 
     -Time: SecondActivity.kt and activity_second.xml (makes the call and saves the response of the weatehrMapAPI and shows relevant data)
     -Dress: ThridActivity.kt and activity_third.xml (recomends you what to wear in case you are in home or if the weather is dangerous,all thanks to the data from Time activity)
