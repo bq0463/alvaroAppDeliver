@@ -6,7 +6,7 @@ Workspace
   
     -Repository: https://github.com/bq0463/alvaroAppDeliver
   
-    -Release: https://github.com/bq0463/alvaroAppDeliver/releases/tag/FinalVersion
+    -Release: https://github.com/bq0463/alvaroAppDeliver/releases/tag/FinalVersion2
 
 Description
 
