@@ -1,5 +1,5 @@
 WeatherApp (was GetYourGear)
-This is the week 8 final release.
+This is the week 15 final release.
 
 Workspace
 - Github
