@@ -82,12 +82,19 @@ List the technical features of the app.
 
 Additional section:
     -ROOM package is implemented but not used after considering the goal of the app.It also has a favLocationEntity made.
+    
 How to Use:
+
     1. Start the app and sign up by google account or email.
+    
     2. After that you can press logout in the drawer menu .
+    
     3.Press the time button in the drawer menu.
+    
     3.1!!!!IMPORTANT !!!!:EXECUTE THIS ONE FIRST AFTER LOADING THE APP AND BEFORE PRESSING THE Dress BUTTON.
+    
     4. After this you can check anything you want on dress or anywhere else
+    
 
 Participant
     -Álvaro Hidalgo López (alvaro.hidalgo.lopez@alumnos.upm.es) only.
